@@ -5,6 +5,9 @@ from datetime import datetime, timedelta
 import concurrent.futures
 import time
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')

@@ -1,6 +1,7 @@
 # Python
 *.pyc
 __pycache__/
+flask_session/
 
 # Virtual environments
 venv/

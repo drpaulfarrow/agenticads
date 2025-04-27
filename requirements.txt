@@ -2,3 +2,4 @@ Flask
 Flask-Session
 openai
 gunicorn
+dotenv
