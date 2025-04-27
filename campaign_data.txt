@@ -1,0 +1,720 @@
+Campaign Name: BlissfulBrews Food & Beverage Campaign 1
+Brand: BlissfulBrews
+Category: Food & Beverage
+Description: Indulge in the essence of pure bliss with our handcrafted artisanal teas and coffees, carefully curated to elevate your daily routine.
+Budget: 23993
+Flight Dates: 2025-04-20 to 2025-05-22
+Target CPM: 7.84
+Target CPA: 18.53
+
+Campaign Name: EcoEssentials Sustainability Campaign 2
+Brand: EcoEssentials
+Category: Sustainability
+Description: Embrace a sustainable lifestyle with our eco-friendly products that prioritize the health of the planet and your well-being, one step at a time.
+Budget: 98015
+Flight Dates: 2025-04-25 to 2025-05-10
+Target CPM: 6.43
+Target CPA: 45.0
+
+Campaign Name: WanderlustWares Travel & Tourism Campaign 3
+Brand: WanderlustWares
+Category: Travel & Tourism
+Description: Explore the world with our collection of travel essentials designed for the adventurous soul, ensuring that every journey is filled with wanderlust and wonder.
+Budget: 26930
+Flight Dates: 2025-04-10 to 2025-06-01
+Target CPM: 5.93
+Target CPA: 10.51
+
+Campaign Name: FitFlex Health & Wellness Campaign 4
+Brand: FitFlex
+Category: Health & Wellness
+Description: Achieve your fitness goals with our innovative workout gear that offers flexibility, comfort, and style, empowering you to push your limits and embrace your strength.
+Budget: 80133
+Flight Dates: 2025-04-20 to 2025-05-12
+Target CPM: 7.07
+Target CPA: 40.72
+
+Campaign Name: PetPals Pets & Animals Campaign 5
+Brand: PetPals
+Category: Pets & Animals
+Description: Show your furry friends some love with our range of pet products that cater to their every need, ensuring that they are always happy, healthy, and cherished.
+Budget: 26355
+Flight Dates: 2025-04-04 to 2025-05-02
+Target CPM: 2.77
+Target CPA: 11.8
+
+Campaign Name: GlowGetter Beauty & Skincare Campaign 6
+Brand: GlowGetter
+Category: Beauty & Skincare
+Description: Unveil your natural radiance with our skincare essentials that nourish and rejuvenate your skin, leaving you with a glowing complexion that shines from within.
+Budget: 65487
+Flight Dates: 2025-04-01 to 2025-05-15
+Target CPM: 4.59
+Target CPA: 45.46
+
+Campaign Name: CozyCorners Home & Decor Campaign 7
+Brand: CozyCorners
+Category: Home & Decor
+Description: Transform your space into a cozy sanctuary with our collection of home decor items that exude warmth, comfort, and style, making every corner a haven of relaxation.
+Budget: 53413
+Flight Dates: 2025-05-16 to 2025-06-04
+Target CPM: 7.76
+Target CPA: 44.89
+
+Campaign Name: TechTrendz Technology & Gadgets Campaign 8
+Brand: TechTrendz
+Category: Technology & Gadgets
+Description: Stay ahead of the curve with our cutting-edge tech gadgets that blend innovation and style seamlessly, enhancing your digital experience in every way possible.
+Budget: 98206
+Flight Dates: 2025-05-24 to 2025-07-18
+Target CPM: 5.69
+Target CPA: 28.84
+
+Campaign Name: MindfulMunchies Wellness & Nutrition Campaign 9
+Brand: MindfulMunchies
+Category: Wellness & Nutrition
+Description: Nourish your body and soul with our range of mindful munchies that prioritize clean ingredients, delicious flavors, and a holistic approach to wellness.
+Budget: 46655
+Flight Dates: 2025-04-13 to 2025-05-27
+Target CPM: 8.66
+Target CPA: 44.63
+
+Campaign Name: SparkleStyle Fashion & Accessories Campaign 10
+Brand: SparkleStyle
+Category: Fashion & Accessories
+Description: Elevate your wardrobe with our trendy fashion and accessories that add a touch of sparkle and style to every outfit, ensuring that you shine bright wherever you go.
+Budget: 8577
+Flight Dates: 2025-04-30 to 2025-06-16
+Target CPM: 9.97
+Target CPA: 13.86
+
+Campaign Name: Luna Glow Beauty & Skincare Campaign 11
+Brand: Luna Glow
+Category: Beauty & Skincare
+Description: Illuminate your skin with Luna Glow's range of natural and nourishing skincare products that leave you glowing from within.
+Budget: 24288
+Flight Dates: 2025-05-06 to 2025-05-23
+Target CPM: 8.16
+Target CPA: 36.81
+
+Campaign Name: Adventure Threads Outdoor & Adventure Campaign 12
+Brand: Adventure Threads
+Category: Outdoor & Adventure
+Description: Embrace the great outdoors in style with Adventure Threads' durable and fashionable outdoor apparel designed for your next adventure.
+Budget: 35541
+Flight Dates: 2025-04-16 to 2025-06-10
+Target CPM: 9.92
+Target CPA: 31.81
+
+Campaign Name: Blissful Bites Food & Beverage Campaign 13
+Brand: Blissful Bites
+Category: Food & Beverage
+Description: Indulge in the decadent and delicious treats from Blissful Bites, where every bite is a moment of pure bliss and satisfaction.
+Budget: 67012
+Flight Dates: 2025-04-08 to 2025-05-30
+Target CPM: 6.93
+Target CPA: 44.62
+
+Campaign Name: Zen Haven Wellness & Self-Care Campaign 14
+Brand: Zen Haven
+Category: Wellness & Self-Care
+Description: Find your inner peace and tranquility with Zen Haven's collection of calming products that promote mindfulness and relaxation.
+Budget: 39188
+Flight Dates: 2025-05-21 to 2025-06-14
+Target CPM: 4.1
+Target CPA: 17.27
+
+Campaign Name: Wanderlust Wonders Travel & Exploration Campaign 15
+Brand: Wanderlust Wonders
+Category: Travel & Exploration
+Description: Embark on a journey of discovery and exploration with Wanderlust Wonders, where every destination is a new adventure waiting to be explored.
+Budget: 6288
+Flight Dates: 2025-04-25 to 2025-06-01
+Target CPM: 7.57
+Target CPA: 41.98
+
+Campaign Name: Eco Chic Sustainable Living Campaign 16
+Brand: Eco Chic
+Category: Sustainable Living
+Description: Make a sustainable statement with Eco Chic's eco-friendly and stylish products that help you reduce your carbon footprint in style.
+Budget: 7336
+Flight Dates: 2025-04-14 to 2025-05-05
+Target CPM: 5.68
+Target CPA: 44.48
+
+Campaign Name: Fit Fusion Health & Fitness Campaign 17
+Brand: Fit Fusion
+Category: Health & Fitness
+Description: Achieve your fitness goals with Fit Fusion's innovative workout programs and equipment that will help you stay active and healthy.
+Budget: 12106
+Flight Dates: 2025-03-28 to 2025-04-05
+Target CPM: 5.61
+Target CPA: 13.92
+
+Campaign Name: Sparkle & Shine Fashion & Accessories Campaign 18
+Brand: Sparkle & Shine
+Category: Fashion & Accessories
+Description: Add a touch of glamour and sophistication to your wardrobe with Sparkle & Shine's dazzling collection of fashion-forward accessories.
+Budget: 48790
+Flight Dates: 2025-04-15 to 2025-06-14
+Target CPM: 5.66
+Target CPA: 7.53
+
+Campaign Name: Pet Paradise Pets & Animals Campaign 19
+Brand: Pet Paradise
+Category: Pets & Animals
+Description: Pamper your furry friends with Pet Paradise's premium pet care products that will keep them happy, healthy, and looking their best.
+Budget: 66720
+Flight Dates: 2025-04-21 to 2025-06-13
+Target CPM: 4.13
+Target CPA: 21.84
+
+Campaign Name: Tech Savvy Technology & Gadgets Campaign 20
+Brand: Tech Savvy
+Category: Technology & Gadgets
+Description: Stay ahead of the curve with Tech Savvy's cutting-edge gadgets and tech accessories that make your life easier and more connected.
+Budget: 85078
+Flight Dates: 2025-04-13 to 2025-04-21
+Target CPM: 2.75
+Target CPA: 39.64
+
+Campaign Name: FireFly Outdoor Adventure Campaign 21
+Brand: FireFly
+Category: Outdoor Adventure
+Description: Ignite your sense of adventure with FireFly, the brand that lights up your outdoor experiences with innovative gear and durable products.
+Budget: 43340
+Flight Dates: 2025-05-02 to 2025-06-14
+Target CPM: 7.58
+Target CPA: 8.7
+
+Campaign Name: Zenith Wellness Campaign 22
+Brand: Zenith
+Category: Wellness
+Description: Reach new heights of relaxation and well-being with Zenith, the brand that brings peace and tranquility to your daily routine through holistic products and practices.
+Budget: 46435
+Flight Dates: 2025-05-21 to 2025-07-01
+Target CPM: 5.21
+Target CPA: 10.82
+
+Campaign Name: NovaGlow Beauty Campaign 23
+Brand: NovaGlow
+Category: Beauty
+Description: Illuminate your beauty with NovaGlow, the brand that brightens your skin and enhances your natural radiance with cutting-edge skincare solutions.
+Budget: 87129
+Flight Dates: 2025-05-16 to 2025-06-07
+Target CPM: 6.34
+Target CPA: 46.73
+
+Campaign Name: EcoScape Sustainability Campaign 24
+Brand: EcoScape
+Category: Sustainability
+Description: Transform your world with EcoScape, the brand committed to preserving the planet through eco-friendly products and sustainable practices for a greener future.
+Budget: 48512
+Flight Dates: 2025-04-14 to 2025-04-27
+Target CPM: 5.61
+Target CPA: 8.73
+
+Campaign Name: PeakPro Fitness Campaign 25
+Brand: PeakPro
+Category: Fitness
+Description: Elevate your fitness journey with PeakPro, the brand that empowers you to reach your peak performance with high-quality workout gear and training programs.
+Budget: 46139
+Flight Dates: 2025-04-30 to 2025-06-13
+Target CPM: 2.98
+Target CPA: 14.37
+
+Campaign Name: LunaBliss Self-Care Campaign 26
+Brand: LunaBliss
+Category: Self-Care
+Description: Indulge in moments of bliss and relaxation with LunaBliss, the brand that offers luxurious self-care products and rituals to nourish your mind, body, and soul.
+Budget: 90957
+Flight Dates: 2025-04-06 to 2025-04-19
+Target CPM: 3.41
+Target CPA: 28.35
+
+Campaign Name: WildRoots Organic Food Campaign 27
+Brand: WildRoots
+Category: Organic Food
+Description: Nourish your body with the pure goodness of WildRoots, the brand that brings you organic and locally sourced food products to reconnect you with the earth.
+Budget: 8010
+Flight Dates: 2025-05-13 to 2025-06-09
+Target CPM: 9.27
+Target CPA: 6.84
+
+Campaign Name: AuraVibe Mindfulness Campaign 28
+Brand: AuraVibe
+Category: Mindfulness
+Description: Find your inner balance and harmony with AuraVibe, the brand that helps you channel positive energy and mindfulness through meditation tools and wellness practices.
+Budget: 54861
+Flight Dates: 2025-04-26 to 2025-05-27
+Target CPM: 4.62
+Target CPA: 32.43
+
+Campaign Name: UrbanEdge Streetwear Campaign 29
+Brand: UrbanEdge
+Category: Streetwear
+Description: Define your style with UrbanEdge, the brand that combines urban aesthetics with edgy designs to create fashion-forward streetwear for the modern trendsetter.
+Budget: 15060
+Flight Dates: 2025-05-11 to 2025-05-18
+Target CPM: 5.05
+Target CPA: 47.95
+
+Campaign Name: PurePaws Pet Care Campaign 30
+Brand: PurePaws
+Category: Pet Care
+Description: Pamper your furry friends with PurePaws, the brand that offers premium pet care products and grooming essentials to keep your pets healthy, happy, and stylish.
+Budget: 76739
+Flight Dates: 2025-04-10 to 2025-05-25
+Target CPM: 3.45
+Target CPA: 43.42
+
+Campaign Name: GlowUp Beauty & Skincare Campaign 31
+Brand: GlowUp
+Category: Beauty & Skincare
+Description: GlowUp offers a range of natural and cruelty-free skincare products that will leave your skin glowing and radiant.
+Budget: 27052
+Flight Dates: 2025-04-15 to 2025-06-11
+Target CPM: 7.97
+Target CPA: 49.72
+
+Campaign Name: ZenithFit Health & Fitness Campaign 32
+Brand: ZenithFit
+Category: Health & Fitness
+Description: ZenithFit provides personalized workout plans and nutritional guidance to help you reach your fitness goals and become the best version of yourself.
+Budget: 37040
+Flight Dates: 2025-05-09 to 2025-05-26
+Target CPM: 2.91
+Target CPA: 33.05
+
+Campaign Name: EcoChic Sustainable Fashion Campaign 33
+Brand: EcoChic
+Category: Sustainable Fashion
+Description: EcoChic offers stylish and sustainable clothing options made from eco-friendly materials, helping you look good while reducing your carbon footprint.
+Budget: 48055
+Flight Dates: 2025-04-27 to 2025-05-15
+Target CPM: 6.84
+Target CPA: 30.65
+
+Campaign Name: FreshBloom Home & Garden Campaign 34
+Brand: FreshBloom
+Category: Home & Garden
+Description: FreshBloom brings the beauty of the outdoors inside with a variety of fresh flowers and plants to brighten up your living space.
+Budget: 10409
+Flight Dates: 2025-05-01 to 2025-05-27
+Target CPM: 8.21
+Target CPA: 26.96
+
+Campaign Name: TechSavvy Electronics & Gadgets Campaign 35
+Brand: TechSavvy
+Category: Electronics & Gadgets
+Description: TechSavvy offers the latest technology gadgets and accessories to keep you connected and organized in style.
+Budget: 38937
+Flight Dates: 2025-03-31 to 2025-05-20
+Target CPM: 9.33
+Target CPA: 14.35
+
+Campaign Name: BlissfulBites Food & Beverage Campaign 36
+Brand: BlissfulBites
+Category: Food & Beverage
+Description: BlissfulBites delivers delicious and nutritious meal options right to your doorstep, making healthy eating convenient and enjoyable.
+Budget: 70082
+Flight Dates: 2025-04-05 to 2025-06-04
+Target CPM: 4.81
+Target CPA: 6.53
+
+Campaign Name: WanderlustWear Travel & Adventure Campaign 37
+Brand: WanderlustWear
+Category: Travel & Adventure
+Description: WanderlustWear offers comfortable and versatile travel clothing that is perfect for exploring new destinations and making memories.
+Budget: 28961
+Flight Dates: 2025-05-20 to 2025-06-14
+Target CPM: 9.81
+Target CPA: 22.0
+
+Campaign Name: PetPamper Pets & Animals Campaign 38
+Brand: PetPamper
+Category: Pets & Animals
+Description: PetPamper provides luxurious grooming services and premium pet products to pamper your furry friends and keep them looking their best.
+Budget: 41008
+Flight Dates: 2025-05-14 to 2025-06-28
+Target CPM: 9.59
+Target CPA: 8.36
+
+Campaign Name: BookWorm Education & Learning Campaign 39
+Brand: BookWorm
+Category: Education & Learning
+Description: BookWorm offers a wide selection of books and educational resources to inspire a love for reading and lifelong learning.
+Budget: 55436
+Flight Dates: 2025-05-08 to 2025-07-02
+Target CPM: 4.16
+Target CPA: 22.32
+
+Campaign Name: MindfulMeditations Wellness & Self-Care Campaign 40
+Brand: MindfulMeditations
+Category: Wellness & Self-Care
+Description: MindfulMeditations offers guided meditation sessions and relaxation techniques to help you find peace and balance in your daily life.
+Budget: 34211
+Flight Dates: 2025-05-09 to 2025-06-28
+Target CPM: 7.94
+Target CPA: 7.28
+
+Campaign Name: GlowBurst Beauty Campaign 41
+Brand: GlowBurst
+Category: Beauty
+Description: GlowBurst offers natural and sustainable beauty products that bring out your inner radiance. Embrace your luminous glow with our eco-friendly skincare solutions.
+Budget: 53274
+Flight Dates: 2025-05-24 to 2025-07-20
+Target CPM: 4.11
+Target CPA: 6.57
+
+Campaign Name: AdventureX Travel Campaign 42
+Brand: AdventureX
+Category: Travel
+Description: AdventureX is your ticket to unforgettable journeys and extraordinary experiences. Explore the world with confidence and create memories that will last a lifetime.
+Budget: 89427
+Flight Dates: 2025-05-07 to 2025-07-01
+Target CPM: 8.92
+Target CPA: 47.4
+
+Campaign Name: FreshFusion Food & Beverage Campaign 43
+Brand: FreshFusion
+Category: Food & Beverage
+Description: FreshFusion brings together the finest ingredients to create delicious and nutritious meals that nourish both body and soul. Taste the fusion of flavors in every bite.
+Budget: 89169
+Flight Dates: 2025-04-22 to 2025-06-10
+Target CPM: 7.65
+Target CPA: 16.74
+
+Campaign Name: ZenDen Wellness Campaign 44
+Brand: ZenDen
+Category: Wellness
+Description: ZenDen invites you to find peace and balance in a chaotic world. Embrace mindfulness and self-care with our holistic wellness products and services.
+Budget: 32275
+Flight Dates: 2025-05-10 to 2025-05-20
+Target CPM: 7.35
+Target CPA: 26.49
+
+Campaign Name: SparkleSquad Fashion Campaign 45
+Brand: SparkleSquad
+Category: Fashion
+Description: SparkleSquad is your go-to destination for trendy and affordable fashion that lets you shine bright. Join the squad and unleash your unique style.
+Budget: 84437
+Flight Dates: 2025-05-09 to 2025-06-08
+Target CPM: 5.27
+Target CPA: 43.15
+
+Campaign Name: EcoEssence Sustainability Campaign 46
+Brand: EcoEssence
+Category: Sustainability
+Description: EcoEssence is dedicated to preserving the planet by offering sustainable and eco-friendly products for everyday living. Make a difference with every purchase.
+Budget: 5099
+Flight Dates: 2025-05-02 to 2025-06-14
+Target CPM: 3.24
+Target CPA: 24.96
+
+Campaign Name: FitFusion Fitness Campaign 47
+Brand: FitFusion
+Category: Fitness
+Description: FitFusion empowers you to achieve your fitness goals with personalized training programs and expert guidance. Join the fusion of strength and endurance.
+Budget: 50424
+Flight Dates: 2025-04-07 to 2025-04-30
+Target CPM: 4.15
+Target CPA: 39.48
+
+Campaign Name: PetParadise Pets Campaign 48
+Brand: PetParadise
+Category: Pets
+Description: PetParadise is a haven for your furry friends, offering premium pet products and services for their health and happiness. Spoil your pet with love and care.
+Budget: 60314
+Flight Dates: 2025-04-30 to 2025-06-27
+Target CPM: 9.4
+Target CPA: 33.46
+
+Campaign Name: TechTrendz Technology Campaign 49
+Brand: TechTrendz
+Category: Technology
+Description: TechTrendz brings you the latest innovations in technology, keeping you connected and ahead of the curve. Embrace the future with cutting-edge tech solutions.
+Budget: 43101
+Flight Dates: 2025-04-11 to 2025-05-28
+Target CPM: 7.21
+Target CPA: 13.92
+
+Campaign Name: DreamDwell Real Estate Campaign 50
+Brand: DreamDwell
+Category: Real Estate
+Description: DreamDwell helps you find your perfect home sweet home with personalized real estate services and expert guidance. Turn your dream home into a reality with us.
+Budget: 37605
+Flight Dates: 2025-05-05 to 2025-06-20
+Target CPM: 3.54
+Target CPA: 18.33
+
+Campaign Name: GlowUp Beauty & Wellness Campaign 51
+Brand: GlowUp
+Category: Beauty & Wellness
+Description: GlowUp offers a range of skincare products that will leave your skin glowing and refreshed. Say goodbye to dull skin and hello to a radiant complexion with GlowUp.
+Budget: 30773
+Flight Dates: 2025-05-20 to 2025-06-20
+Target CPM: 5.01
+Target CPA: 40.88
+
+Campaign Name: EcoChic Sustainable Fashion Campaign 52
+Brand: EcoChic
+Category: Sustainable Fashion
+Description: EcoChic is a brand dedicated to creating stylish and sustainable clothing for the eco-conscious fashionista. Look good and feel good knowing that your wardrobe choices are helping the planet.
+Budget: 86732
+Flight Dates: 2025-05-27 to 2025-07-03
+Target CPM: 8.02
+Target CPA: 26.36
+
+Campaign Name: ZenDen Home & Decor Campaign 53
+Brand: ZenDen
+Category: Home & Decor
+Description: Create a peaceful sanctuary in your home with ZenDen's calming and stylish decor pieces. Transform your space into a zen oasis where you can relax and unwind after a long day.
+Budget: 59992
+Flight Dates: 2025-04-29 to 2025-05-20
+Target CPM: 2.65
+Target CPA: 9.19
+
+Campaign Name: FitFuel Health & Fitness Campaign 54
+Brand: FitFuel
+Category: Health & Fitness
+Description: Fuel your body with FitFuel's nutritious and delicious meal plans designed to help you reach your fitness goals. Say hello to a healthier and happier you with FitFuel.
+Budget: 61465
+Flight Dates: 2025-05-05 to 2025-06-07
+Target CPM: 2.55
+Target CPA: 25.0
+
+Campaign Name: Wanderlust Travel & Adventure Campaign 55
+Brand: Wanderlust
+Category: Travel & Adventure
+Description: Feed your wanderlust with Wanderlust's curated travel experiences that will take you on unforgettable adventures around the globe. Discover new cultures and create memories that will last a lifetime.
+Budget: 58107
+Flight Dates: 2025-04-17 to 2025-05-16
+Target CPM: 3.76
+Target CPA: 37.29
+
+Campaign Name: BlissBites Food & Beverage Campaign 56
+Brand: BlissBites
+Category: Food & Beverage
+Description: Indulge in guilt-free snacking with BlissBites' range of delicious and nutritious snacks. Satisfy your cravings without compromising on taste or health with BlissBites.
+Budget: 37209
+Flight Dates: 2025-05-03 to 2025-05-22
+Target CPM: 9.7
+Target CPA: 22.96
+
+Campaign Name: PetPals Pets & Animals Campaign 57
+Brand: PetPals
+Category: Pets & Animals
+Description: Show your furry friends some love with PetPals' premium pet care products that are designed to keep your pets happy and healthy. Treat your pets like royalty with PetPals.
+Budget: 75900
+Flight Dates: 2025-05-05 to 2025-06-26
+Target CPM: 4.43
+Target CPA: 41.1
+
+Campaign Name: MindfulMeds Mental Health & Wellness Campaign 58
+Brand: MindfulMeds
+Category: Mental Health & Wellness
+Description: Prioritize your mental health with MindfulMeds' range of mindfulness and meditation products that will help you find inner peace and clarity. Take care of your mind, body, and soul with MindfulMeds.
+Budget: 76711
+Flight Dates: 2025-05-23 to 2025-06-25
+Target CPM: 6.12
+Target CPA: 17.45
+
+Campaign Name: SparkleSquad Jewelry & Accessories Campaign 59
+Brand: SparkleSquad
+Category: Jewelry & Accessories
+Description: Elevate your style with SparkleSquad's stunning collection of jewelry and accessories that will add a touch of glamour to any outfit. Shine bright like a diamond with SparkleSquad.
+Budget: 63396
+Flight Dates: 2025-05-13 to 2025-07-10
+Target CPM: 6.64
+Target CPA: 49.2
+
+Campaign Name: GreenThumb Gardening & Outdoor Campaign 60
+Brand: GreenThumb
+Category: Gardening & Outdoor
+Description: Cultivate your green thumb with GreenThumb's sustainable gardening tools and accessories that will help you create a lush and thriving garden. Bring the beauty of nature into your own backyard with GreenThumb.
+Budget: 44247
+Flight Dates: 2025-05-17 to 2025-06-20
+Target CPM: 5.3
+Target CPA: 13.18
+
+Campaign Name: GlowUp Beauty and Wellness Campaign 61
+Brand: GlowUp
+Category: Beauty and Wellness
+Description: GlowUp offers a range of skincare products that promise to rejuvenate and transform your skin, giving you a radiant and glowing complexion like never before.
+Budget: 75803
+Flight Dates: 2025-05-13 to 2025-07-04
+Target CPM: 9.16
+Target CPA: 25.65
+
+Campaign Name: EcoChic Sustainable Fashion Campaign 62
+Brand: EcoChic
+Category: Sustainable Fashion
+Description: EcoChic is a sustainable fashion brand that combines style with environmental consciousness, offering trendy and eco-friendly clothing options that make a statement while reducing your carbon footprint.
+Budget: 42502
+Flight Dates: 2025-04-15 to 2025-05-18
+Target CPM: 5.9
+Target CPA: 21.1
+
+Campaign Name: FitFusion Fitness and Health Campaign 63
+Brand: FitFusion
+Category: Fitness and Health
+Description: FitFusion provides personalized workout plans and nutrition guidance to help you achieve your fitness goals, offering a comprehensive approach to health and wellness that combines exercise and healthy eating.
+Budget: 39331
+Flight Dates: 2025-05-17 to 2025-06-25
+Target CPM: 8.82
+Target CPA: 22.01
+
+Campaign Name: ZenDen Meditation and Mindfulness Campaign 64
+Brand: ZenDen
+Category: Meditation and Mindfulness
+Description: ZenDen offers a peaceful sanctuary for mindfulness and meditation practices, providing a tranquil space for relaxation and self-reflection to help you find balance and inner peace in your daily life.
+Budget: 67027
+Flight Dates: 2025-04-23 to 2025-06-02
+Target CPM: 5.94
+Target CPA: 45.41
+
+Campaign Name: PetPals Pet Care and Accessories Campaign 65
+Brand: PetPals
+Category: Pet Care and Accessories
+Description: PetPals offers a wide range of high-quality pet care products and accessories to pamper your furry friends, ensuring they are happy, healthy, and stylish at all times.
+Budget: 55125
+Flight Dates: 2025-04-15 to 2025-05-16
+Target CPM: 3.37
+Target CPA: 23.68
+
+Campaign Name: TechTrend Technology and Gadgets Campaign 66
+Brand: TechTrend
+Category: Technology and Gadgets
+Description: TechTrend brings you the latest in tech innovations and cutting-edge gadgets to enhance your digital lifestyle, offering sleek designs and advanced features for a seamless and connected experience.
+Budget: 74710
+Flight Dates: 2025-04-22 to 2025-05-29
+Target CPM: 3.88
+Target CPA: 26.88
+
+Campaign Name: FreshFare Organic Food and Nutrition Campaign 67
+Brand: FreshFare
+Category: Organic Food and Nutrition
+Description: FreshFare delivers fresh and organic produce straight to your doorstep, providing nutritious and delicious meal options that support a healthy and sustainable lifestyle for you and your family.
+Budget: 10313
+Flight Dates: 2025-04-14 to 2025-06-08
+Target CPM: 1.91
+Target CPA: 24.01
+
+Campaign Name: AdventureRush Travel and Tourism Campaign 68
+Brand: AdventureRush
+Category: Travel and Tourism
+Description: AdventureRush offers thrilling and unforgettable travel experiences for the adventurous at heart, with carefully curated itineraries that take you off the beaten path and into the heart of new and exciting destinations.
+Budget: 48877
+Flight Dates: 2025-05-01 to 2025-06-04
+Target CPM: 8.56
+Target CPA: 29.35
+
+Campaign Name: MindMeld Personal Development and Coaching Campaign 69
+Brand: MindMeld
+Category: Personal Development and Coaching
+Description: MindMeld offers personalized coaching and self-improvement programs to help you unlock your full potential and achieve your goals, empowering you to live a fulfilling and purposeful life.
+Budget: 36265
+Flight Dates: 2025-04-14 to 2025-05-28
+Target CPM: 7.22
+Target CPA: 45.03
+
+Campaign Name: DreamScape Home Decor and Interior Design Campaign 70
+Brand: DreamScape
+Category: Home Decor and Interior Design
+Description: DreamScape provides unique and stylish home decor pieces and interior design services to transform your living space into a dreamy and inviting sanctuary, reflecting your personal style and taste.
+Budget: 82195
+Flight Dates: 2025-04-15 to 2025-05-24
+Target CPM: 1.65
+Target CPA: 13.95
+
+Campaign Name: Luna Luxe Beauty & Cosmetics Campaign 71
+Brand: Luna Luxe
+Category: Beauty & Cosmetics
+Description: Embrace your inner glow with Luna Luxe's luxurious skincare products designed to nourish and rejuvenate your skin, leaving you radiant and confident.
+Budget: 99305
+Flight Dates: 2025-05-03 to 2025-06-16
+Target CPM: 2.05
+Target CPA: 41.58
+
+Campaign Name: Thrive Fuel Health & Wellness Campaign 72
+Brand: Thrive Fuel
+Category: Health & Wellness
+Description: Thrive Fuel offers premium supplements to fuel your body and mind, empowering you to reach your peak performance and live life to the fullest.
+Budget: 89831
+Flight Dates: 2025-05-08 to 2025-05-20
+Target CPM: 7.31
+Target CPA: 42.36
+
+Campaign Name: Zenith Adventure Co. Travel & Tourism Campaign 73
+Brand: Zenith Adventure Co.
+Category: Travel & Tourism
+Description: Embark on unforgettable journeys with Zenith Adventure Co., where every trip is curated to provide you with unique experiences and memories that last a lifetime.
+Budget: 60479
+Flight Dates: 2025-04-29 to 2025-06-02
+Target CPM: 3.89
+Target CPA: 42.77
+
+Campaign Name: Blissful Bites Bakery Food & Beverage Campaign 74
+Brand: Blissful Bites Bakery
+Category: Food & Beverage
+Description: Indulge in the delectable creations from Blissful Bites Bakery, where each bite is a taste of pure happiness made with love and passion.
+Budget: 76258
+Flight Dates: 2025-05-14 to 2025-06-11
+Target CPM: 3.79
+Target CPA: 16.78
+
+Campaign Name: Nova Fitness Wear Sports & Fitness Campaign 75
+Brand: Nova Fitness Wear
+Category: Sports & Fitness
+Description: Elevate your workout wardrobe with Nova Fitness Wear's stylish and functional activewear, designed to help you move with confidence and comfort.
+Budget: 92409
+Flight Dates: 2025-04-11 to 2025-05-12
+Target CPM: 5.56
+Target CPA: 26.86
+
+Campaign Name: Haven Haven Home & Lifestyle Campaign 76
+Brand: Haven Haven
+Category: Home & Lifestyle
+Description: Transform your living space into a sanctuary of relaxation and style with Haven Haven's curated collection of home decor and essentials.
+Budget: 47629
+Flight Dates: 2025-05-27 to 2025-06-07
+Target CPM: 6.84
+Target CPA: 17.49
+
+Campaign Name: Serene Souls Spa Wellness & Self-Care Campaign 77
+Brand: Serene Souls Spa
+Category: Wellness & Self-Care
+Description: Treat yourself to a blissful escape at Serene Souls Spa, where expert therapists and luxurious treatments will rejuvenate your body, mind, and soul.
+Budget: 99413
+Flight Dates: 2025-04-07 to 2025-04-23
+Target CPM: 8.8
+Target CPA: 38.16
+
+Campaign Name: Wanderlust Wardrobe Fashion & Style Campaign 78
+Brand: Wanderlust Wardrobe
+Category: Fashion & Style
+Description: Explore the world in style with Wanderlust Wardrobe's chic and versatile clothing pieces that embody the spirit of adventure and wanderlust.
+Budget: 87941
+Flight Dates: 2025-05-17 to 2025-06-01
+Target CPM: 4.37
+Target CPA: 8.26
+
+Campaign Name: Vitality Vibe Health & Fitness Campaign 79
+Brand: Vitality Vibe
+Category: Health & Fitness
+Description: Energize your life with Vitality Vibe's range of wellness products and services, designed to help you achieve optimal health and vitality.
+Budget: 73540
+Flight Dates: 2025-04-27 to 2025-06-16
+Target CPM: 6.68
+Target CPA: 14.79
+
+Campaign Name: Radiant Roots Yoga Mindfulness & Meditation Campaign 80
+Brand: Radiant Roots Yoga
+Category: Mindfulness & Meditation
+Description: Find your inner peace and strength with Radiant Roots Yoga, where expert instructors guide you on a journey of self-discovery and holistic well-being.
+Budget: 19371
+Flight Dates: 2025-03-29 to 2025-05-11
+Target CPM: 4.61
+Target CPA: 36.18
+

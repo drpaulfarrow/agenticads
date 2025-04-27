@@ -1,0 +1,19 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Other
+*.log

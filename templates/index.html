@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Agentic Ad Selector</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background-color: #f5f7fa; }
+        #chat-box { background: #fff; padding: 20px; border-radius: 10px; height: 600px; overflow-y: scroll; }
+        .message { background: #e9ecef; margin-bottom: 10px; padding: 10px; border-radius: 5px; }
+        #loading { margin-top: 20px; }
+        button { margin-top: 20px; padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; }
+        button:disabled { background-color: #6c757d; }
+    </style>
+</head>
+<body>
+    <h1>🚀 Agentic Ad Selector</h1>
+
+    <div id="chat-box"></div>
+
+    <div id="loading" style="display:none;">Working...</div>
+
+    <button id="start-btn" onclick="start()">Start Conversation</button>
+
+    <script>
+        async function runSteps() {
+            document.getElementById("loading").style.display = "block";
+            document.getElementById("start-btn").disabled = true;
+
+            let working = true;
+            while (working) {
+                const response = await fetch("/step", { method: "POST" });
+                const data = await response.json();
+
+                if (data.message) {
+                    const chatBox = document.getElementById("chat-box");
+                    const newMessage = document.createElement("div");
+                    newMessage.className = "message";
+                    newMessage.innerHTML = data.message;
+                    chatBox.appendChild(newMessage);
+                    chatBox.scrollTop = chatBox.scrollHeight;
+                }
+
+                if (data.done) {
+                    working = false;
+                    document.getElementById("loading").innerText = "✅ Finished!";
+                } else {
+                    await new Promise(resolve => setTimeout(resolve, 1200));
+                }
+            }
+        }
+
+        function start() {
+            runSteps();
+        }
+    </script>
+</body>
+</html>
