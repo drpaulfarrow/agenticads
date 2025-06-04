@@ -37,6 +37,16 @@
             word-wrap: break-word;
         }
 
+        .mebot-message {
+            background: #d1e7dd;
+            border-left: 4px solid #0f5132;
+        }
+
+        .adbot-message {
+            background: #ffe5d9;
+            border-left: 4px solid #b02a37;
+        }
+
         #loading {
             margin: 20px 0;
             text-align: center;
@@ -81,6 +91,7 @@
     <div id="loading" style="display:none;">Working...</div>
 
     <button id="start-btn" onclick="start()">Start Conversation</button>
+    <button id="restart-btn" onclick="restart()" style="display:none; margin-top:10px;">Restart</button>
 
     <script>
         async function runSteps() {
@@ -96,6 +107,11 @@
                     const chatBox = document.getElementById("chat-box");
                     const newMessage = document.createElement("div");
                     newMessage.className = "message";
+                    if (data.message.startsWith("👤") || data.message.includes("MeBot")) {
+                        newMessage.classList.add("mebot-message");
+                    } else if (data.message.includes("AdBot") || data.message.startsWith("🤖")) {
+                        newMessage.classList.add("adbot-message");
+                    }
                     newMessage.innerHTML = data.message;
                     chatBox.appendChild(newMessage);
                     chatBox.scrollTop = chatBox.scrollHeight;
@@ -104,6 +120,7 @@
                 if (data.done) {
                     working = false;
                     document.getElementById("loading").innerText = "✅ Finished!";
+                    document.getElementById("restart-btn").style.display = "block";
                 } else {
                     await new Promise(resolve => setTimeout(resolve, 1200));
                 }
@@ -112,6 +129,10 @@
 
         function start() {
             runSteps();
+        }
+
+        function restart() {
+            window.location.reload();
         }
     </script>
 </body>
